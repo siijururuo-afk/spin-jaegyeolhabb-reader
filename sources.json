@@ -1,0 +1,31 @@
+{
+  "description": "可更新的提问箱来源清单；保留主页与公开接口标识。",
+  "sources": [
+    {
+      "platform": "spin-spin",
+      "handle": "jaegyeolhabb",
+      "name": "🤤",
+      "homepage": "https://spin-spin.com/jaegyeolhabb",
+      "answersPage": "https://spin-spin.com/jaegyeolhabb?tab=1",
+      "publicBoxId": "6adf766ae75a306aa1d275e3",
+      "capturedAt": "2026-10-28",
+      "publicAnswerCount": 21,
+      "translatedAnswerCount": 21,
+      "archiveJson": "archives/jaegyeolhabb.json",
+      "archiveMarkdown": "archives/jaegyeolhabb.md"
+    },
+    {
+      "platform": "spin-spin",
+      "handle": "s0810s0527s",
+      "name": "ryu…n",
+      "homepage": "https://spin-spin.com/s0810s0527s",
+      "answersPage": "https://spin-spin.com/s0810s0527s?tab=1",
+      "publicBoxId": "670f465d9282166b0508c684",
+      "capturedAt": "2026-10-28",
+      "publicAnswerCount": 720,
+      "translatedAnswerCount": 720,
+      "archiveJson": "archives/s0810s0527s.json",
+      "archiveMarkdown": "archives/s0810s0527s.md"
+    }
+  ]
+}

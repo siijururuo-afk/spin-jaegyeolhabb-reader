@@ -1,0 +1,67 @@
+{
+  "handle": "s0810s0527s",
+  "publicCount": 720,
+  "captured": 720,
+  "unique": 720,
+  "pages": [
+    {
+      "page": 0,
+      "count": 100,
+      "isLast": false,
+      "next": 0
+    },
+    {
+      "page": 1,
+      "count": 100,
+      "isLast": false,
+      "next": 100
+    },
+    {
+      "page": 2,
+      "count": 100,
+      "isLast": false,
+      "next": 200
+    },
+    {
+      "page": 3,
+      "count": 100,
+      "isLast": false,
+      "next": 300
+    },
+    {
+      "page": 4,
+      "count": 100,
+      "isLast": false,
+      "next": 400
+    },
+    {
+      "page": 5,
+      "count": 100,
+      "isLast": false,
+      "next": 500
+    },
+    {
+      "page": 6,
+      "count": 100,
+      "isLast": false,
+      "next": 600
+    },
+    {
+      "page": 7,
+      "count": 20,
+      "isLast": true,
+      "next": 700
+    },
+    {
+      "page": 8,
+      "count": 0,
+      "isLast": true,
+      "next": 800
+    }
+  ],
+  "oldest": "2024.10.17 20:20",
+  "newest": "2026.10.28 11:29",
+  "nextPageEmpty": true,
+  "translationCount": 720,
+  "missingTranslations": 0
+}
