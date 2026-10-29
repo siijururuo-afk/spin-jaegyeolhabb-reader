@@ -26,6 +26,19 @@
       "translatedAnswerCount": 720,
       "archiveJson": "archives/s0810s0527s.json",
       "archiveMarkdown": "archives/s0810s0527s.md"
+    },
+    {
+      "platform": "spin-spin",
+      "handle": "JMT_GOOD",
+      "name": "미돌",
+      "homepage": "https://spin-spin.com/JMT_GOOD",
+      "answersPage": "https://spin-spin.com/JMT_GOOD?tab=1",
+      "publicBoxId": "6714d3a7a4073f20a62b5583",
+      "capturedAt": "2026-10-28",
+      "publicAnswerCount": 2030,
+      "translatedAnswerCount": 2030,
+      "archiveJson": "archives/JMT_GOOD.json",
+      "archiveMarkdown": "archives/JMT_GOOD.md"
     }
   ]
 }

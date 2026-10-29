@@ -1,0 +1,156 @@
+{
+  "handle": "JMT_GOOD",
+  "publicCount": 2030,
+  "capturedRows": 2032,
+  "capturedAnswered": 2030,
+  "omittedEmptyReplies": [
+    "6894a100652827eb7af22e01",
+    "689476f2652827eb7ac9cfea"
+  ],
+  "redactedItems": [
+    {
+      "id": "681c08db2ba367f218239479",
+      "reason": "minor_age"
+    }
+  ],
+  "uniqueAnswered": 2030,
+  "pages": [
+    {
+      "page": 0,
+      "count": 100,
+      "isLast": false,
+      "next": 0
+    },
+    {
+      "page": 1,
+      "count": 100,
+      "isLast": false,
+      "next": 100
+    },
+    {
+      "page": 2,
+      "count": 100,
+      "isLast": false,
+      "next": 200
+    },
+    {
+      "page": 3,
+      "count": 100,
+      "isLast": false,
+      "next": 300
+    },
+    {
+      "page": 4,
+      "count": 100,
+      "isLast": false,
+      "next": 400
+    },
+    {
+      "page": 5,
+      "count": 100,
+      "isLast": false,
+      "next": 500
+    },
+    {
+      "page": 6,
+      "count": 100,
+      "isLast": false,
+      "next": 600
+    },
+    {
+      "page": 7,
+      "count": 100,
+      "isLast": false,
+      "next": 700
+    },
+    {
+      "page": 8,
+      "count": 100,
+      "isLast": false,
+      "next": 800
+    },
+    {
+      "page": 9,
+      "count": 100,
+      "isLast": false,
+      "next": 900
+    },
+    {
+      "page": 10,
+      "count": 100,
+      "isLast": false,
+      "next": 1000
+    },
+    {
+      "page": 11,
+      "count": 100,
+      "isLast": false,
+      "next": 1100
+    },
+    {
+      "page": 12,
+      "count": 100,
+      "isLast": false,
+      "next": 1200
+    },
+    {
+      "page": 13,
+      "count": 100,
+      "isLast": false,
+      "next": 1300
+    },
+    {
+      "page": 14,
+      "count": 100,
+      "isLast": false,
+      "next": 1400
+    },
+    {
+      "page": 15,
+      "count": 100,
+      "isLast": false,
+      "next": 1500
+    },
+    {
+      "page": 16,
+      "count": 100,
+      "isLast": false,
+      "next": 1600
+    },
+    {
+      "page": 17,
+      "count": 100,
+      "isLast": false,
+      "next": 1700
+    },
+    {
+      "page": 18,
+      "count": 100,
+      "isLast": false,
+      "next": 1800
+    },
+    {
+      "page": 19,
+      "count": 100,
+      "isLast": false,
+      "next": 1900
+    },
+    {
+      "page": 20,
+      "count": 32,
+      "isLast": true,
+      "next": 2000
+    },
+    {
+      "page": 21,
+      "count": 0,
+      "isLast": true,
+      "next": 2100
+    }
+  ],
+  "oldest": "2024.10.20 22:19",
+  "newest": "2026.09.29 20:46",
+  "nextPageEmpty": true,
+  "translationCount": 2030,
+  "missingTranslations": 0
+}
