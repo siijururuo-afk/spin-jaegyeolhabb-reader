@@ -1,0 +1,28 @@
+{
+  "handle": "jaegyeolhabb",
+  "publicCount": 32,
+  "capturedRows": 32,
+  "capturedAnswered": 32,
+  "omittedEmptyReplies": [],
+  "redactedItems": [],
+  "uniqueAnswered": 32,
+  "pages": [
+    {
+      "page": 0,
+      "count": 32,
+      "isLast": true,
+      "next": 0
+    },
+    {
+      "page": 1,
+      "count": 0,
+      "isLast": true,
+      "next": 100
+    }
+  ],
+  "oldest": "2026.10.27 01:36",
+  "newest": "2026.10.30 16:49",
+  "nextPageEmpty": true,
+  "translationCount": 32,
+  "missingTranslations": 0
+}

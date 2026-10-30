@@ -3,19 +3,6 @@
   "sources": [
     {
       "platform": "spin-spin",
-      "handle": "jaegyeolhabb",
-      "name": "🤤",
-      "homepage": "https://spin-spin.com/jaegyeolhabb",
-      "answersPage": "https://spin-spin.com/jaegyeolhabb?tab=1",
-      "publicBoxId": "6adf766ae75a306aa1d275e3",
-      "capturedAt": "2026-10-28",
-      "publicAnswerCount": 21,
-      "translatedAnswerCount": 21,
-      "archiveJson": "archives/jaegyeolhabb.json",
-      "archiveMarkdown": "archives/jaegyeolhabb.md"
-    },
-    {
-      "platform": "spin-spin",
       "handle": "s0810s0527s",
       "name": "ryu…n",
       "homepage": "https://spin-spin.com/s0810s0527s",
@@ -52,6 +39,19 @@
       "translatedAnswerCount": 70,
       "archiveJson": "archives/biyo_yobi.json",
       "archiveMarkdown": "archives/biyo_yobi.md"
+    },
+    {
+      "platform": "spin-spin",
+      "handle": "jaegyeolhabb",
+      "name": "🤤",
+      "homepage": "https://spin-spin.com/jaegyeolhabb",
+      "answersPage": "https://spin-spin.com/jaegyeolhabb?tab=1",
+      "publicBoxId": "6adf766ae75a306aa1d275e3",
+      "capturedAt": "2026-10-30",
+      "publicAnswerCount": 32,
+      "translatedAnswerCount": 32,
+      "archiveJson": "archives/jaegyeolhabb.json",
+      "archiveMarkdown": "archives/jaegyeolhabb.md"
     }
   ]
 }

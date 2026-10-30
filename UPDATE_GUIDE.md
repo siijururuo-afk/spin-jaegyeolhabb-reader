@@ -4,7 +4,7 @@
 
 | 账号 | 原站主页 | 当前已翻译公开回答 |
 | --- | --- | --- |
-| 🤤 · jaegyeolhabb | https://spin-spin.com/jaegyeolhabb | 21 |
+| 🤤 · jaegyeolhabb | https://spin-spin.com/jaegyeolhabb | 32 |
 | ryu…n · s0810s0527s | https://spin-spin.com/s0810s0527s | 720 |
 | 미돌 · JMT_GOOD | https://spin-spin.com/JMT_GOOD | 2030 |
 

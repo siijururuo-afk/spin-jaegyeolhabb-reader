@@ -2,7 +2,7 @@
 
 参考原提问箱的个人资料区、浅灰背景及一问一答卡片布局制作的多账号中文阅读网站。不是 Spin 官方网站。
 
-- 已收录四个账号：jaegyeolhabb（21条）、s0810s0527s（720条）、JMT_GOOD（2,030条）、biyo_yobi（70条），共2,841条公开问答。
+- 已收录四个账号：jaegyeolhabb（32条）、s0810s0527s（720条）、JMT_GOOD（2,030条）、biyo_yobi（70条），共2,852条公开问答。
 - 可通过侧边账号卡片或手机端下拉框自由切换，地址参数 `?account=<handle>` 可分享指定账号。
 - 中文 / 中韩对照 / 韩文；各账号收藏分别保存在本机。
 - 搜索、最新/最早排序、长问答筛选、本机收藏。
@@ -24,3 +24,5 @@ JMT_GOOD 中有1条涉及未成年性描写的条目以说明文字替代，原�
 GitHub Pages：Settings → Pages → Deploy from a branch → main / (root)。
 
 新增来源：https://spin-spin.com/biyo_yobi （2026-10-30抓取，70条公开问答）。
+
+jaegyeolhabb于2026-10-30更新：新增11条，共32条。
