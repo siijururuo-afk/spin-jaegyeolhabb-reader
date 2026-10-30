@@ -1,0 +1,28 @@
+{
+  "handle": "biyo_yobi",
+  "publicCount": 70,
+  "capturedRows": 70,
+  "capturedAnswered": 70,
+  "omittedEmptyReplies": [],
+  "redactedItems": [],
+  "uniqueAnswered": 70,
+  "pages": [
+    {
+      "page": 0,
+      "count": 70,
+      "isLast": true,
+      "next": 0
+    },
+    {
+      "page": 1,
+      "count": 0,
+      "isLast": true,
+      "next": 100
+    }
+  ],
+  "oldest": "2026.05.27 04:03",
+  "newest": "2026.10.29 01:18",
+  "nextPageEmpty": true,
+  "translationCount": 70,
+  "missingTranslations": 0
+}

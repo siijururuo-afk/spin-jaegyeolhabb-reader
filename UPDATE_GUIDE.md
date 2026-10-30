@@ -1,12 +1,14 @@
 # 来源与更新说明
 
-本项目已记下三个提问箱，所有主页均在 `sources.json`，后续更新以该文件为准。
+本项目已记下四个提问箱，所有主页均在 `sources.json`，后续更新以该文件为准。
 
 | 账号 | 原站主页 | 当前已翻译公开回答 |
 | --- | --- | --- |
 | 🤤 · jaegyeolhabb | https://spin-spin.com/jaegyeolhabb | 21 |
 | ryu…n · s0810s0527s | https://spin-spin.com/s0810s0527s | 720 |
 | 미돌 · JMT_GOOD | https://spin-spin.com/JMT_GOOD | 2030 |
+
+| 뜨 · biyo_yobi | https://spin-spin.com/biyo_yobi | 70 |
 
 ## 更新约定
 

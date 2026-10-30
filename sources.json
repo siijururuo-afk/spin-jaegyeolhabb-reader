@@ -39,6 +39,19 @@
       "translatedAnswerCount": 2030,
       "archiveJson": "archives/JMT_GOOD.json",
       "archiveMarkdown": "archives/JMT_GOOD.md"
+    },
+    {
+      "platform": "spin-spin",
+      "handle": "biyo_yobi",
+      "name": "뜨",
+      "homepage": "https://spin-spin.com/biyo_yobi",
+      "answersPage": "https://spin-spin.com/biyo_yobi?tab=1",
+      "publicBoxId": "6a132787bad16a6d15acbef5",
+      "capturedAt": "2026-10-30",
+      "publicAnswerCount": 70,
+      "translatedAnswerCount": 70,
+      "archiveJson": "archives/biyo_yobi.json",
+      "archiveMarkdown": "archives/biyo_yobi.md"
     }
   ]
 }
