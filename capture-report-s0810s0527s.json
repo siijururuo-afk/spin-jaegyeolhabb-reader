@@ -1,8 +1,11 @@
 {
   "handle": "s0810s0527s",
-  "publicCount": 720,
-  "captured": 720,
-  "unique": 720,
+  "publicCount": 736,
+  "capturedRows": 736,
+  "capturedAnswered": 736,
+  "omittedEmptyReplies": [],
+  "redactedItems": [],
+  "uniqueAnswered": 736,
   "pages": [
     {
       "page": 0,
@@ -48,7 +51,7 @@
     },
     {
       "page": 7,
-      "count": 20,
+      "count": 36,
       "isLast": true,
       "next": 700
     },
@@ -60,8 +63,8 @@
     }
   ],
   "oldest": "2024.10.17 20:20",
-  "newest": "2026.10.28 11:29",
+  "newest": "2026.11.01 00:43",
   "nextPageEmpty": true,
-  "translationCount": 720,
+  "translationCount": 736,
   "missingTranslations": 0
 }

@@ -1,11 +1,11 @@
 {
   "handle": "ssisgndngwgtbd",
-  "publicCount": 4775,
-  "capturedRows": 4775,
-  "capturedAnswered": 4775,
+  "publicCount": 4779,
+  "capturedRows": 4779,
+  "capturedAnswered": 4779,
   "omittedEmptyReplies": [],
   "redactedItems": [],
-  "uniqueAnswered": 4775,
+  "uniqueAnswered": 4779,
   "pages": [
     {
       "page": 0,
@@ -291,7 +291,7 @@
     },
     {
       "page": 47,
-      "count": 75,
+      "count": 79,
       "isLast": true,
       "next": 4700
     },
@@ -303,14 +303,8 @@
     }
   ],
   "oldest": "2025.06.29 20:08",
-  "newest": "2026.10.27 22:41",
+  "newest": "2026.11.02 01:33",
   "nextPageEmpty": true,
-  "translationCount": 4775,
-  "missingTranslations": 0,
-  "reviewedCount": 4775,
-  "restoredMissingLinks": 1,
-  "reviewFileCount": 161,
-  "imageCount": 39,
-  "accessiblePublicCdnImages": 39,
-  "imageDisplayNote": "Uses the same public CDN URL transformation as the original Spin frontend; original S3 URLs retained."
+  "translationCount": 4779,
+  "missingTranslations": 0
 }

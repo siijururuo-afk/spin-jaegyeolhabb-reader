@@ -1,8 +1,8 @@
 {
   "handle": "JMT_GOOD",
-  "publicCount": 2030,
-  "capturedRows": 2032,
-  "capturedAnswered": 2030,
+  "publicCount": 2031,
+  "capturedRows": 2033,
+  "capturedAnswered": 2031,
   "omittedEmptyReplies": [
     "6894a100652827eb7af22e01",
     "689476f2652827eb7ac9cfea"
@@ -13,7 +13,7 @@
       "reason": "minor_age"
     }
   ],
-  "uniqueAnswered": 2030,
+  "uniqueAnswered": 2031,
   "pages": [
     {
       "page": 0,
@@ -137,7 +137,7 @@
     },
     {
       "page": 20,
-      "count": 32,
+      "count": 33,
       "isLast": true,
       "next": 2000
     },
@@ -149,8 +149,8 @@
     }
   ],
   "oldest": "2024.10.20 22:19",
-  "newest": "2026.09.29 20:46",
+  "newest": "2026.10.29 19:43",
   "nextPageEmpty": true,
-  "translationCount": 2030,
+  "translationCount": 2031,
   "missingTranslations": 0
 }

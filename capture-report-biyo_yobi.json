@@ -1,15 +1,15 @@
 {
   "handle": "biyo_yobi",
-  "publicCount": 70,
-  "capturedRows": 70,
-  "capturedAnswered": 70,
+  "publicCount": 79,
+  "capturedRows": 79,
+  "capturedAnswered": 79,
   "omittedEmptyReplies": [],
   "redactedItems": [],
-  "uniqueAnswered": 70,
+  "uniqueAnswered": 79,
   "pages": [
     {
       "page": 0,
-      "count": 70,
+      "count": 79,
       "isLast": true,
       "next": 0
     },
@@ -21,8 +21,8 @@
     }
   ],
   "oldest": "2026.05.27 04:03",
-  "newest": "2026.10.29 01:18",
+  "newest": "2026.11.02 01:09",
   "nextPageEmpty": true,
-  "translationCount": 70,
+  "translationCount": 79,
   "missingTranslations": 0
 }

@@ -4,11 +4,11 @@
 
 | 账号 | 原站主页 | 当前已翻译公开回答 |
 | --- | --- | --- |
-| 🤤 · jaegyeolhabb | https://spin-spin.com/jaegyeolhabb | 32 |
-| ryu…n · s0810s0527s | https://spin-spin.com/s0810s0527s | 720 |
-| 미돌 · JMT_GOOD | https://spin-spin.com/JMT_GOOD | 2030 |
-| 뜨 · biyo_yobi | https://spin-spin.com/biyo_yobi | 70 |
-| 내삼 · ssisgndngwgtbd | https://spin-spin.com/ssisgndngwgtbd | 4775 |
+| 🤤 · jaegyeolhabb | https://spin-spin.com/jaegyeolhabb | 42 |
+| ryu…n · s0810s0527s | https://spin-spin.com/s0810s0527s | 736 |
+| 미돌 · JMT_GOOD | https://spin-spin.com/JMT_GOOD | 2031 |
+| 뜨 · biyo_yobi | https://spin-spin.com/biyo_yobi | 79 |
+| 내삼 · ssisgndngwgtbd | https://spin-spin.com/ssisgndngwgtbd | 4779 |
 
 ## 更新约定
 
