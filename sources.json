@@ -52,6 +52,19 @@
       "translatedAnswerCount": 32,
       "archiveJson": "archives/jaegyeolhabb.json",
       "archiveMarkdown": "archives/jaegyeolhabb.md"
+    },
+    {
+      "platform": "spin-spin",
+      "handle": "ssisgndngwgtbd",
+      "name": "내삼",
+      "homepage": "https://spin-spin.com/ssisgndngwgtbd",
+      "answersPage": "https://spin-spin.com/ssisgndngwgtbd?tab=1",
+      "publicBoxId": "686119df7a71864f6e584197",
+      "capturedAt": "2026-10-30",
+      "publicAnswerCount": 4775,
+      "translatedAnswerCount": 4775,
+      "archiveJson": "archives/ssisgndngwgtbd.json",
+      "archiveMarkdown": "archives/ssisgndngwgtbd.md"
     }
   ]
 }

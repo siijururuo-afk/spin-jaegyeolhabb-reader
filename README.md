@@ -2,7 +2,7 @@
 
 参考原提问箱的个人资料区、浅灰背景及一问一答卡片布局制作的多账号中文阅读网站。不是 Spin 官方网站。
 
-- 已收录四个账号：jaegyeolhabb（32条）、s0810s0527s（720条）、JMT_GOOD（2,030条）、biyo_yobi（70条），共2,852条公开问答。
+- 已收录五个账号：jaegyeolhabb（32条）、s0810s0527s（720条）、JMT_GOOD（2,030条）、biyo_yobi（70条）、ssisgndngwgtbd（4,775条），共7,627条公开问答。
 - 可通过侧边账号卡片或手机端下拉框自由切换，地址参数 `?account=<handle>` 可分享指定账号。
 - 中文 / 中韩对照 / 韩文；各账号收藏分别保存在本机。
 - 搜索、最新/最早排序、长问答筛选、本机收藏。
@@ -14,6 +14,8 @@
 - https://spin-spin.com/jaegyeolhabb
 - https://spin-spin.com/s0810s0527s
 - https://spin-spin.com/JMT_GOOD
+- https://spin-spin.com/biyo_yobi
+- https://spin-spin.com/ssisgndngwgtbd
 
 抓取日期：2026-10-28。各账号公开计数与实际已回答问答数一致，均已核对末页及空的下一页。JMT_GOOD 接口有2条没有回答的条目，已排除，只收录2,030条已回答问答。只收录公开内容，不含未回答、已删除或订阅专享提问。s0810s0527s 中有1条图片回答，原图目前返回 AccessDenied，保留原链接及不可访问说明。
 
@@ -26,3 +28,5 @@ GitHub Pages：Settings → Pages → Deploy from a branch → main / (root)。
 新增来源：https://spin-spin.com/biyo_yobi （2026-10-30抓取，70条公开问答）。
 
 jaegyeolhabb于2026-10-30更新：新增11条，共32条。
+
+新增来源：https://spin-spin.com/ssisgndngwgtbd （4,775条公开问答；39张图片使用原站的公开CDN显示，同时保留原始地址）。

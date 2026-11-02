@@ -9,4 +9,4 @@
 - [来源与抓取时间](source.json)
 - [翻译说明](翻译说明.txt)
 
-当前为韩文原文归档，尚未生成中文译文或加入网站账号切换。五条关键词筛选结果已逐条人工核对，均为普通CP讨论等非性化内容，已完整恢复原文。
+中文译文已完成并加入网站账号切换：[阅读中文与韩文对照](https://siijururuo-afk.github.io/spin-jaegyeolhabb-reader/?account=ssisgndngwgtbd)。此目录保留原文下载。五条关键词筛选结果已逐条人工核对，均为普通CP讨论等非性化内容，已完整恢复原文。

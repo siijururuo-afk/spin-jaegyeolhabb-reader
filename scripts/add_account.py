@@ -8,6 +8,8 @@ ROOT=pathlib.Path(__file__).resolve().parent.parent
 parser=argparse.ArgumentParser();parser.add_argument('handle');parser.add_argument('--capture-dir',type=pathlib.Path);parser.add_argument('--preview',action='store_true');args=parser.parse_args()
 if not re.fullmatch(r'[A-Za-z0-9_-]+',args.handle):raise ValueError('Invalid handle')
 folder=args.capture_dir or ROOT/'work'/('spin-'+args.handle)
+image_status=folder/'image-cdn-status.json'
+image_cdn={x['url']:x['cdn'] for x in json.loads(image_status.read_text(encoding='utf8')) if x.get('status')==200} if image_status.exists() else {}
 raw=json.loads((folder/'all.json').read_text(encoding='utf8'));trs={}
 for f in sorted(folder.glob('translations-*.json')):trs.update(json.loads(f.read_text(encoding='utf-8-sig')))
 valid=[m for m in raw['replyInfo'] if m.get('reply')]
@@ -28,7 +30,7 @@ for m in valid:
   raise RuntimeError('Incomplete translation: '+m['id'])
  if tr.get('reviewReason')=='minor_age':q=a=qzh=azh='[涉及未成年性描写，略去具体内容]'
  dt=datetime.datetime.fromisoformat(r['createdAt'].replace('Z','+00:00')).astimezone(tz)
- items.append({'id':m['id'],'seq':len(items)+1,'question':q,'answer':a,'questionZh':qzh,'answerZh':azh,'createdAt':r['createdAt'],'date':dt.strftime('%Y.%m.%d %H:%M'),'images':[{'url':u,'local':None} for u in r.get('imageList',[])]})
+ items.append({'id':m['id'],'seq':len(items)+1,'question':q,'answer':a,'questionZh':qzh,'answerZh':azh,'createdAt':r['createdAt'],'date':dt.strftime('%Y.%m.%d %H:%M'),'images':[{'url':u,'local':image_cdn.get(u)} for u in r.get('imageList',[])]})
 profile=raw['profile'];handle=profile['handle'];captured=raw.get('capturedAt','2026-10-28')[:10]
 new={'handle':handle,'name':profile['nickname'],'bio':profile.get('bio') or '','profileImage':profile.get('profileImg') or '','source':'https://spin-spin.com/'+handle+'?tab=1','capturedAt':captured,'timezone':'Asia/Seoul','count':len(items),'items':items}
 archives={};archive_dir=ROOT/'archives';archive_dir.mkdir(exist_ok=True)
@@ -39,7 +41,7 @@ archives[handle]=new
 md=[f'# {new["name"]} · @{handle}\n\n主页：{new["source"]}\n\n抓取：{captured} · {len(items)} 条公开问答 · 韩国时间UTC+9\n\n']
 for m in items:
  md.append(f'## {m["seq"]:04} · {m["date"]}\n\n**提问（中文）**\n\n{m["questionZh"]}\n\n**回答（中文）**\n\n{m["answerZh"]}\n\n**提问（韩文）**\n\n{m["question"]}\n\n**回答（韩文）**\n\n{m["answer"]}\n\n')
- for im in m['images']:md.append(f'![图片回答]({im["url"]})\n\n')
+ for im in m['images']:md.append(f'![图片回答]({im["local"] or im["url"]})\n\n')
 (archive_dir/f'{handle}.md').write_text(''.join(md),encoding='utf-8-sig')
 (ROOT/'accounts.js').write_text('window.SPIN_ARCHIVES = '+json.dumps(archives,ensure_ascii=False,separators=(',',':'))+';\n',encoding='utf8')
 registry=json.loads((ROOT/'sources.json').read_text(encoding='utf8'));sources=registry['sources'];entry={'platform':'spin-spin','handle':handle,'name':new['name'],'homepage':'https://spin-spin.com/'+handle,'answersPage':new['source'],'publicBoxId':profile['id'],'capturedAt':captured,'publicAnswerCount':raw['counter']['replyCount'],'translatedAnswerCount':len(valid)-len(missing),'archiveJson':f'archives/{handle}.json','archiveMarkdown':f'archives/{handle}.md'}

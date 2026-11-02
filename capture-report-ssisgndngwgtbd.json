@@ -1,0 +1,316 @@
+{
+  "handle": "ssisgndngwgtbd",
+  "publicCount": 4775,
+  "capturedRows": 4775,
+  "capturedAnswered": 4775,
+  "omittedEmptyReplies": [],
+  "redactedItems": [],
+  "uniqueAnswered": 4775,
+  "pages": [
+    {
+      "page": 0,
+      "count": 100,
+      "isLast": false,
+      "next": 0
+    },
+    {
+      "page": 1,
+      "count": 100,
+      "isLast": false,
+      "next": 100
+    },
+    {
+      "page": 2,
+      "count": 100,
+      "isLast": false,
+      "next": 200
+    },
+    {
+      "page": 3,
+      "count": 100,
+      "isLast": false,
+      "next": 300
+    },
+    {
+      "page": 4,
+      "count": 100,
+      "isLast": false,
+      "next": 400
+    },
+    {
+      "page": 5,
+      "count": 100,
+      "isLast": false,
+      "next": 500
+    },
+    {
+      "page": 6,
+      "count": 100,
+      "isLast": false,
+      "next": 600
+    },
+    {
+      "page": 7,
+      "count": 100,
+      "isLast": false,
+      "next": 700
+    },
+    {
+      "page": 8,
+      "count": 100,
+      "isLast": false,
+      "next": 800
+    },
+    {
+      "page": 9,
+      "count": 100,
+      "isLast": false,
+      "next": 900
+    },
+    {
+      "page": 10,
+      "count": 100,
+      "isLast": false,
+      "next": 1000
+    },
+    {
+      "page": 11,
+      "count": 100,
+      "isLast": false,
+      "next": 1100
+    },
+    {
+      "page": 12,
+      "count": 100,
+      "isLast": false,
+      "next": 1200
+    },
+    {
+      "page": 13,
+      "count": 100,
+      "isLast": false,
+      "next": 1300
+    },
+    {
+      "page": 14,
+      "count": 100,
+      "isLast": false,
+      "next": 1400
+    },
+    {
+      "page": 15,
+      "count": 100,
+      "isLast": false,
+      "next": 1500
+    },
+    {
+      "page": 16,
+      "count": 100,
+      "isLast": false,
+      "next": 1600
+    },
+    {
+      "page": 17,
+      "count": 100,
+      "isLast": false,
+      "next": 1700
+    },
+    {
+      "page": 18,
+      "count": 100,
+      "isLast": false,
+      "next": 1800
+    },
+    {
+      "page": 19,
+      "count": 100,
+      "isLast": false,
+      "next": 1900
+    },
+    {
+      "page": 20,
+      "count": 100,
+      "isLast": false,
+      "next": 2000
+    },
+    {
+      "page": 21,
+      "count": 100,
+      "isLast": false,
+      "next": 2100
+    },
+    {
+      "page": 22,
+      "count": 100,
+      "isLast": false,
+      "next": 2200
+    },
+    {
+      "page": 23,
+      "count": 100,
+      "isLast": false,
+      "next": 2300
+    },
+    {
+      "page": 24,
+      "count": 100,
+      "isLast": false,
+      "next": 2400
+    },
+    {
+      "page": 25,
+      "count": 100,
+      "isLast": false,
+      "next": 2500
+    },
+    {
+      "page": 26,
+      "count": 100,
+      "isLast": false,
+      "next": 2600
+    },
+    {
+      "page": 27,
+      "count": 100,
+      "isLast": false,
+      "next": 2700
+    },
+    {
+      "page": 28,
+      "count": 100,
+      "isLast": false,
+      "next": 2800
+    },
+    {
+      "page": 29,
+      "count": 100,
+      "isLast": false,
+      "next": 2900
+    },
+    {
+      "page": 30,
+      "count": 100,
+      "isLast": false,
+      "next": 3000
+    },
+    {
+      "page": 31,
+      "count": 100,
+      "isLast": false,
+      "next": 3100
+    },
+    {
+      "page": 32,
+      "count": 100,
+      "isLast": false,
+      "next": 3200
+    },
+    {
+      "page": 33,
+      "count": 100,
+      "isLast": false,
+      "next": 3300
+    },
+    {
+      "page": 34,
+      "count": 100,
+      "isLast": false,
+      "next": 3400
+    },
+    {
+      "page": 35,
+      "count": 100,
+      "isLast": false,
+      "next": 3500
+    },
+    {
+      "page": 36,
+      "count": 100,
+      "isLast": false,
+      "next": 3600
+    },
+    {
+      "page": 37,
+      "count": 100,
+      "isLast": false,
+      "next": 3700
+    },
+    {
+      "page": 38,
+      "count": 100,
+      "isLast": false,
+      "next": 3800
+    },
+    {
+      "page": 39,
+      "count": 100,
+      "isLast": false,
+      "next": 3900
+    },
+    {
+      "page": 40,
+      "count": 100,
+      "isLast": false,
+      "next": 4000
+    },
+    {
+      "page": 41,
+      "count": 100,
+      "isLast": false,
+      "next": 4100
+    },
+    {
+      "page": 42,
+      "count": 100,
+      "isLast": false,
+      "next": 4200
+    },
+    {
+      "page": 43,
+      "count": 100,
+      "isLast": false,
+      "next": 4300
+    },
+    {
+      "page": 44,
+      "count": 100,
+      "isLast": false,
+      "next": 4400
+    },
+    {
+      "page": 45,
+      "count": 100,
+      "isLast": false,
+      "next": 4500
+    },
+    {
+      "page": 46,
+      "count": 100,
+      "isLast": false,
+      "next": 4600
+    },
+    {
+      "page": 47,
+      "count": 75,
+      "isLast": true,
+      "next": 4700
+    },
+    {
+      "page": 48,
+      "count": 0,
+      "isLast": true,
+      "next": 4800
+    }
+  ],
+  "oldest": "2025.06.29 20:08",
+  "newest": "2026.10.27 22:41",
+  "nextPageEmpty": true,
+  "translationCount": 4775,
+  "missingTranslations": 0,
+  "reviewedCount": 4775,
+  "restoredMissingLinks": 1,
+  "reviewFileCount": 161,
+  "imageCount": 39,
+  "accessiblePublicCdnImages": 39,
+  "imageDisplayNote": "Uses the same public CDN URL transformation as the original Spin frontend; original S3 URLs retained."
+}
